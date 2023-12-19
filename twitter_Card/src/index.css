@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  background-color: #242424;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
+}
+
+.App {
+  display: flex;
+  flex-direction:column;
+  gap: 8px;
+}
+
+
+
